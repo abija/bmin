@@ -1,0 +1,8 @@
+## Interface: 30000
+## Title: bmin
+## Version: 1
+## Author: Burghy
+## Notes: Auto buys reagents, repairs if exalted, sells gray items
+
+bmin.lua
+

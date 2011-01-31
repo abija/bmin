@@ -1,0 +1,8 @@
+<Bindings>	
+	<Binding name="XCAMERAZOOMIN" header="bUIFix">
+		CameraZoomIn(3.0);
+	</Binding>
+	<Binding name="XCAMERAZOOMOUT">
+		CameraZoomOut(3.0);
+	</Binding>
+</Bindings>
